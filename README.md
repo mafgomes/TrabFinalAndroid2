@@ -16,5 +16,5 @@ Trabalho final da disciplina de Android 2
 22/03/2021 - 15:00
 
 #### Integrantes do grupo:
-- 2086332021 - Marcelo Amarante Ferreira Gomes
-- 2086339999 - Eduardo Alves
+- 2086332021 - Marcelo Amarante Ferreira Gomes - marcelo.gomes [arroba] iesb [ponto] edu [ponto] br
+- 2031088009 - Eduardo Alves Rodrigues - eduardo.rodrigues [arroba] iesb [ponto] edu [ponto] br
