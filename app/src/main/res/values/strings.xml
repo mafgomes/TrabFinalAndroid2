@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">TrabFinalAndroid2</string>
+    <string name="btnTxLogin">Login</string>
+    <string name="btnTxForgotPassword">Forgot Password</string>
+    <string name="lblTxLogin">Username</string>
+    <string name="lblTxPassword">Password</string>
+    <string name="lblTxBiometricLogin">Login using biometry</string>
+    <string name="lblTxOrganizationName">Tabajara Corporation</string>
+    <string name="lblTxProductName">Login to Password Manager</string>
+    <string name="btnTxRegister">New User</string>
+    <string name="cptTxLogoDescription">Tabajara Logo</string>
+</resources>

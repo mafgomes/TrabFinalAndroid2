@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrabFinalAndroid2</string>
+    <string name="btnTxLogin">Entrar</string>
+    <string name="btnTxForgotPassword">Esqueci a Senha</string>
+    <string name="lblTxLogin">Usuário</string>
+    <string name="lblTxPassword">Senha</string>
+    <string name="lblTxBiometricLogin">Login com biometria</string>
+    <string name="lblTxOrganizationName">Organizações Tabajara</string>
+    <string name="lblTxProductName">Entre no Gerenciador de Senhas</string>
+    <string name="btnTxRegister">Novo Usuário</string>
+    <string name="cptTxLogoDescription">Logotipo Tabajara</string>
+</resources>
