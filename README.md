@@ -17,4 +17,4 @@ Trabalho final da disciplina de Android 2
 9) Armazenamento local de dados (cache usando a biblioteca Room).
 
 #### Integrantes do grupo:
-- 2086332021 - Marcelo Amarante Ferreira Gomes
+- 2086332021 - Marcelo Amarante Ferreira Gomes - marcelo.gomes [arroba] iesb [ponto] edu [ponto] br
