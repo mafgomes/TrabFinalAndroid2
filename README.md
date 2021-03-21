@@ -2,8 +2,9 @@
 Trabalho final da disciplina de Android 2
 
 #### Entrega:
-**favor não avaliar antes da data final de entrega!**
 22/03/2021 - 15:00
+
+**favor não avaliar antes da data final de entrega!**
 
 #### Itens obrigatórios:
 1) Tela de Login;
